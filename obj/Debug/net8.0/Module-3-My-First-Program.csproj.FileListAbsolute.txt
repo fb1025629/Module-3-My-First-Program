@@ -1,0 +1,14 @@
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\bin\Debug\net8.0\Module-3-My-First-Program.exe
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\bin\Debug\net8.0\Module-3-My-First-Program.deps.json
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\bin\Debug\net8.0\Module-3-My-First-Program.runtimeconfig.json
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\bin\Debug\net8.0\Module-3-My-First-Program.dll
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\bin\Debug\net8.0\Module-3-My-First-Program.pdb
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.AssemblyInfoInputs.cache
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.AssemblyInfo.cs
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.csproj.CoreCompileInputs.cache
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.dll
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\refint\Module-3-My-First-Program.dll
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.pdb
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\Module-3-My-First-Program.genruntimeconfig.cache
+C:\Users\fb1025629\OneDrive - Ozarks Technical Community College\Documents\GitHub\Module-3-My-First-Program\obj\Debug\net8.0\ref\Module-3-My-First-Program.dll
